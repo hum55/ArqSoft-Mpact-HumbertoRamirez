@@ -20,6 +20,7 @@ Mpact centraliza toda esa información en una sola plataforma accesible desde cu
 ## Documentación
 
 - [ADR-01 — Decisiones arquitectónicas](./docs/ADR-01-HUMBERTO-RAMIREZ.md)
+- [ADR-02 — Vistas Arquitectonicas](./docs/ADR-02-HUMBERTO-RAMIREZ.md)
 
 ## Estado
 
