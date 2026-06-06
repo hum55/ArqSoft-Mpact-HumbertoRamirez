@@ -16,6 +16,7 @@ Estas vistas permiten que cualquier persona del equipo entienda el sistema sin n
 
 ---
 
+
 ## Decisión
 
 Se decidió documentar la arquitectura de Mpact utilizando el **modelo de vistas 4+1**, seleccionando las cuatro vistas principales que aplican al alcance actual del proyecto:
