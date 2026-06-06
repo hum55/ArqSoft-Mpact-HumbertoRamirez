@@ -43,13 +43,13 @@ Al ser un proyecto desarrollado por estudiantes, documentar estas vistas obliga 
 
 ## Consecuencias
 
-**✅ Lo que gano:**
+** Lo que gano:**
 
 - **Técnica:** Tener la vista lógica documentada facilita que cualquier nuevo desarrollador entienda la separación en capas (Controllers, Services, Models, Data) y sepa exactamente dónde agregar una nueva funcionalidad sin romper la estructura existente.
 
 - **Proceso y equipo:** Las vistas de despliegue y física sirven como guía para configurar los ambientes de desarrollo y producción. Esto evita que cada miembro del equipo configure el entorno de manera diferente y reduce errores de integración.
 
-**⚠️ Lo que sacrifico o asumo:**
+** Lo que sacrifico o asumo:**
 
 - **Limitación técnica:** Los diagramas reflejan el estado actual del MVP. Cuando se agreguen funcionalidades como WebSockets para notificaciones en tiempo real o colas de mensajes para procesamiento asíncrono, las vistas de procesos y despliegue deberán actualizarse.
 
@@ -83,4 +83,4 @@ Muestra el flujo de ejecución cuando un usuario agenda una cita, que es la oper
 
 ## Declaración de uso de IA
 
-Se utilizó inteligencia artificial (Claude, Anthropic) como herramienta de apoyo para estructurar el documento, organizar las ideas y generar los diagramas en formato Mermaid. El contenido fue revisado, adaptado y validado por el autor para asegurar que refleja fielmente las decisiones del proyecto.
+Se utilizó inteligencia artificial (Claude, Anthropic) como herramienta de apoyo. 
